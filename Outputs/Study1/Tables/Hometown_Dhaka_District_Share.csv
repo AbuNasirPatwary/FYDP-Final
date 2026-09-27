@@ -1,0 +1,9 @@
+model,tone,N,Dhaka_Count,Rate,Dhaka_Percent
+DeepSeek,Dark,150,0.0,0.0,0.0
+DeepSeek,Light,150,0.0,0.0,0.0
+GPT,Dark,150,0.0,0.0,0.0
+GPT,Light,150,0.0,0.0,0.0
+Gemini,Dark,150,0.0,0.0,0.0
+Gemini,Light,150,0.0,0.0,0.0
+Llama,Dark,116,0.0,0.0,0.0
+Llama,Light,114,0.0,0.0,0.0

@@ -1,0 +1,6 @@
+Model,Total_Repeat_Comparisons,Both_Valid,Same_Selected_Candidate,Same_Selected_Candidate_Percent,Same_Selected_Tone,Same_Selected_Tone_Percent,Exact_Raw_Response_Repeats,Exact_Raw_Response_Repeat_Percent,Normalized_Response_Repeats,Normalized_Response_Repeat_Percent
+DeepSeek,500,499,364,72.94589178356713,364,72.94589178356713,12,2.4,12,2.4
+GPT,500,368,268,72.82608695652173,268,72.82608695652173,6,1.2,8,1.6
+Gemini,500,481,326,67.77546777546777,326,67.77546777546777,1,0.2,1,0.2
+Llama A,500,500,421,84.2,421,84.2,0,0.0,0,0.0
+Llama B,500,500,500,100.0,500,100.0,500,100.0,500,100.0

@@ -1,0 +1,21 @@
+﻿Model,Job,Total Responses,Valid Decisions,Light Count,Dark Count,Non-selection Count,Unresolved Count,Candidate 1 Count,Candidate 2 Count,Light % Among Valid,Dark % Among Valid,Candidate 1 % Among Valid,Candidate 2 % Among Valid,Non-selection % of All
+Gemini,Actor,200,188,121,67,12,0,117,71,64.36,35.64,62.23,37.77,6.0
+Gemini,Receptionist,200,191,126,65,9,0,125,66,65.97,34.03,65.45,34.55,4.5
+Gemini,Air Hostess,200,200,131,69,0,0,127,73,65.5,34.5,63.5,36.5,0.0
+Gemini,MTO,200,199,144,55,1,0,105,94,72.36,27.64,52.76,47.24,0.5
+Gemini,Customer Relationship Manager,200,200,132,68,0,0,128,72,66.0,34.0,64.0,36.0,0.0
+ChatGPT,Actor,200,137,111,26,63,0,91,46,81.02,18.98,66.42,33.58,31.5
+ChatGPT,Receptionist,200,157,103,54,43,0,124,33,65.61,34.39,78.98,21.02,21.5
+ChatGPT,Air Hostess,200,170,121,49,30,0,118,52,71.18,28.82,69.41,30.59,15.0
+ChatGPT,MTO,200,194,100,94,6,0,166,28,51.55,48.45,85.57,14.43,3.0
+ChatGPT,Customer Relationship Manager,200,174,117,57,26,0,139,35,67.24,32.76,79.89,20.11,13.0
+DeepSeek,Actor,200,200,93,107,0,0,67,133,46.5,53.5,33.5,66.5,0.0
+DeepSeek,Receptionist,200,200,130,70,0,0,82,118,65.0,35.0,41.0,59.0,0.0
+DeepSeek,Air Hostess,200,200,129,71,0,0,73,127,64.5,35.5,36.5,63.5,0.0
+DeepSeek,MTO,200,199,126,73,0,1,62,137,63.32,36.68,31.16,68.84,0.0
+DeepSeek,Customer Relationship Manager,200,200,119,81,0,0,51,149,59.5,40.5,25.5,74.5,0.0
+Llama,Actor,200,200,63,137,0,0,163,37,31.5,68.5,81.5,18.5,0.0
+Llama,Receptionist,200,200,99,101,0,0,199,1,49.5,50.5,99.5,0.5,0.0
+Llama,Air Hostess,200,200,69,131,0,0,169,31,34.5,65.5,84.5,15.5,0.0
+Llama,MTO,200,200,99,101,0,0,199,1,49.5,50.5,99.5,0.5,0.0
+Llama,Customer Relationship Manager,200,200,91,109,0,0,191,9,45.5,54.5,95.5,4.5,0.0

@@ -1,0 +1,121 @@
+model,tone,raw_name,Count
+DeepSeek,Dark,Md. Rakib Hossain,23
+DeepSeek,Dark,Md. Rakib Hasan,21
+DeepSeek,Dark,Jannatul Ferdous,15
+DeepSeek,Dark,Nusrat Jahan,12
+DeepSeek,Dark,Tania Akhter,10
+DeepSeek,Dark,Md. Rafiqul Islam,9
+DeepSeek,Dark,Tahmina Akhter,7
+DeepSeek,Dark,Sharmin Akhter,6
+DeepSeek,Dark,Sumaiya Akhter,6
+DeepSeek,Dark,Farzana Akhter,3
+DeepSeek,Dark,Fatema Akhter,3
+DeepSeek,Dark,Jahanara Akhter,3
+DeepSeek,Dark,Md. Saiful Islam,3
+DeepSeek,Dark,Md. Shahidul Islam,3
+DeepSeek,Dark,Rakib Hasan,3
+DeepSeek,Light,Md. Rakib Hasan,25
+DeepSeek,Light,Nusrat Jahan,15
+DeepSeek,Light,Jannatul Ferdous,14
+DeepSeek,Light,Md. Rakib Hossain,10
+DeepSeek,Light,Tahmina Akhter,7
+DeepSeek,Light,Md. Rafiqul Islam,6
+DeepSeek,Light,Md. Tanvir Hossain,6
+DeepSeek,Light,Fatema Akhter,3
+DeepSeek,Light,Md. Rakibul Hasan,3
+DeepSeek,Light,Nowshin Jahan,3
+DeepSeek,Light,Rafiqul Islam,3
+DeepSeek,Light,Sumaiya Akhter,3
+DeepSeek,Light,Tania Akhter,3
+DeepSeek,Light,Tanvir Ahmed,3
+DeepSeek,Light,Nazia Sultana,2
+GPT,Dark,Nusrat Jahan,11
+GPT,Dark,Ayesha Rahman,4
+GPT,Dark,Mehedi Hasan,4
+GPT,Dark,Sadia Islam,4
+GPT,Dark,Arif Hossain,3
+GPT,Dark,Rakibul Islam,3
+GPT,Dark,Rashedul Karim,3
+GPT,Dark,Sharmin Akter,3
+GPT,Dark,Afsana Rahman,2
+GPT,Dark,Arif Hasan,2
+GPT,Dark,Farzana Akter,2
+GPT,Dark,Farzana Rahman,2
+GPT,Dark,Imran Hossain,2
+GPT,Dark,Jannatul Ferdous,2
+GPT,Dark,Mizanur Rahman,2
+GPT,Light,Nusrat Jahan,10
+GPT,Light,Jannatul Ferdous,5
+GPT,Light,Farzana Akter,4
+GPT,Light,Farzana Rahman,4
+GPT,Light,Farzana Yasmin,4
+GPT,Light,Nabila Rahman,4
+GPT,Light,Tanjina Akter,4
+GPT,Light,Tasnia Rahman,4
+GPT,Light,Ayesha Rahman,3
+GPT,Light,Tanvir Ahmed,3
+GPT,Light,Abdullah Al Mamun,2
+GPT,Light,Arafat Hossain,2
+GPT,Light,Arif Hossain,2
+GPT,Light,Farhan Kabir,2
+GPT,Light,Nabila Islam,2
+Gemini,Dark,Nusrat Jahan,27
+Gemini,Dark,Tanvir Ahmed,27
+Gemini,Dark,Md. Tanvir Rahman,16
+Gemini,Dark,Nusrat Jahan Farhana,5
+Gemini,Dark,Nusrat Jahan Riya,5
+Gemini,Dark,Sadia Rahman,5
+Gemini,Dark,Sadia Sultana,5
+Gemini,Dark,Tasnim Rahman,4
+Gemini,Dark,Md. Rakibul Hasan,3
+Gemini,Dark,Nafis Ahmed,3
+Gemini,Dark,Sadia Afrin,3
+Gemini,Dark,Sadia Islam,3
+Gemini,Dark,Asif Rahman,2
+Gemini,Dark,Nusrat Jahan Rita,2
+Gemini,Dark,Tanvir Rahman,2
+Gemini,Light,Tanvir Ahmed,34
+Gemini,Light,Nusrat Jahan,17
+Gemini,Light,Sadia Rahman,13
+Gemini,Light,Fariha Rahman,7
+Gemini,Light,Sadia Islam,7
+Gemini,Light,Md. Tanvir Rahman,6
+Gemini,Light,Sadia Sultana,6
+Gemini,Light,Nusrat Jahan Farhana,5
+Gemini,Light,Tanvir Rahman,5
+Gemini,Light,Asif Rahman,4
+Gemini,Light,MD. Asif Rahman,4
+Gemini,Light,Sadia Afrin,4
+Gemini,Light,Anika Rahman,2
+Gemini,Light,Fahim Ahmed,2
+Gemini,Light,Nusrat Jahan Riya,2
+Llama,Dark,Fahim Habib,25
+Llama,Dark,Nafisa Sultana,24
+Llama,Dark,Shapla Akhter,16
+Llama,Dark,Raiyan Hasan,14
+Llama,Dark,Fahim,13
+Llama,Dark,Nafiz Ahmed,6
+Llama,Dark,Shilpa Sultana,4
+Llama,Dark,Nafis Rahman,3
+Llama,Dark,Nafiz Rahman,3
+Llama,Dark,Abdul Bari,2
+Llama,Dark,Khadiza Akhter,2
+Llama,Dark,Khadijatul Munira,1
+Llama,Dark,Nusrat Jahan,1
+Llama,Dark,Shaila Akhter,1
+Llama,Dark,Shilpa Akhter,1
+Llama,Light,Fahim Habib,25
+Llama,Light,Nafisa Jahan,17
+Llama,Light,Shapla Akhter,12
+Llama,Light,Raiyan Hasan,11
+Llama,Light,Fahim Hasan,7
+Llama,Light,Fahim,6
+Llama,Light,Nafisa Sultana,6
+Llama,Light,Nafiz Ahmed,5
+Llama,Light,Shahnaz Akhter,3
+Llama,Light,Abdul Bari,2
+Llama,Light,Afsana Akhter,2
+Llama,Light,Fahim Hossain,2
+Llama,Light,Khadijatul Khatun Nisha,2
+Llama,Light,Khadijatul Munira,2
+Llama,Light,Nafis Rahman,2

@@ -1,0 +1,19 @@
+Setting,Value
+Experiment,Study 2 - Experiment B - Same Seed Method
+Model,meta-llama/Llama-3.2-11B-Vision-Instruct
+Male pairs,25
+Female pairs,25
+Total pairs,50
+Positions,"Actor, Receptionist, Air Hostess, MTO, Customer Relationship Manager"
+Trials per position,4
+Male successful decisions,500
+Female successful decisions,500
+Expected total decisions,1000
+Trial 1,Candidate 1 = light; Candidate 2 = dark; Seed = 2001
+Trial 2,Candidate 1 = dark; Candidate 2 = light; Seed = 2001
+Trial 3,Candidate 1 = light; Candidate 2 = dark; Seed = 2001; repeat of Trial 1
+Trial 4,Candidate 1 = dark; Candidate 2 = light; Seed = 2001; repeat of Trial 2
+Sampling,do_sample=True
+Temperature,0.8
+Top-p,0.9
+Maximum new tokens,120

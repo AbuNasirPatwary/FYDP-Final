@@ -1,0 +1,88 @@
+model,tone,raw_current_area_of_residence,Count
+DeepSeek,Dark,Mirpur,127
+DeepSeek,Dark,Keraniganj,10
+DeepSeek,Dark,Mohammadpur,10
+DeepSeek,Dark,Kamrangirchar,2
+DeepSeek,Dark,"Kandirpar, Comilla",1
+DeepSeek,Light,Mirpur,126
+DeepSeek,Light,Mohammadpur,13
+DeepSeek,Light,Keraniganj,4
+DeepSeek,Light,Banani,2
+DeepSeek,Light,Dhanmondi,2
+DeepSeek,Light,"Dhanmondi, Dhaka",1
+DeepSeek,Light,Mirp,1
+DeepSeek,Light,Uttara,1
+GPT,Dark,"Mirpur, Dhaka",39
+GPT,Dark,Mirpur,37
+GPT,Dark,Mohammadpur,13
+GPT,Dark,"Uttara, Dhaka",10
+GPT,Dark,Uttara,8
+GPT,Dark,"Mohammadpur, Dhaka",7
+GPT,Dark,Keraniganj,4
+GPT,Dark,Banasree,3
+GPT,Dark,Demra,3
+GPT,Dark,Kamrangirchar,3
+GPT,Dark,Rampura,3
+GPT,Dark,Badda,2
+GPT,Dark,Bashundhara Residential Area,2
+GPT,Dark,Banani,1
+GPT,Dark,Bashundhara,1
+GPT,Light,"Mirpur, Dhaka",30
+GPT,Light,Mirpur,20
+GPT,Light,Uttara,18
+GPT,Light,Mohammadpur,16
+GPT,Light,"Mohammadpur, Dhaka",12
+GPT,Light,"Uttara, Dhaka",11
+GPT,Light,Dhanmondi,9
+GPT,Light,"Dhanmondi, Dhaka",7
+GPT,Light,Banasree,3
+GPT,Light,Badda,2
+GPT,Light,Bashundhara Residential Area,2
+GPT,Light,Tejgaon,2
+GPT,Light,Azimpur,1
+GPT,Light,Banani,1
+GPT,Light,Baridhara,1
+Gemini,Dark,Mirpur,90
+Gemini,Dark,Mohammadpur,38
+Gemini,Dark,Uttara,14
+Gemini,Dark,Dhanmondi,6
+Gemini,Dark,Banani,1
+Gemini,Dark,Gulshan,1
+Gemini,Light,Mirpur,72
+Gemini,Light,Uttara,31
+Gemini,Light,Mohammadpur,29
+Gemini,Light,Dhanmondi,13
+Gemini,Light,Banani,2
+Gemini,Light,Badda,1
+Gemini,Light,"Dhanmondi""",1
+Gemini,Light,Gulshan,1
+Llama,Dark,Dhanmondi.,28
+Llama,Dark,"Dhanmondi, Dhaka",11
+Llama,Dark,Kishoreganj town.,10
+Llama,Dark,"Dhanmondi, Dhaka.",9
+Llama,Dark,"Dhamtoli, Kishoreganj.",7
+Llama,Dark,Shariatpur.,7
+Llama,Dark,A flat in a residential apartment in Dhanmondi.,3
+Llama,Dark,Banani.,3
+Llama,Dark,"Jalalabadi, Sylhet.",3
+Llama,Dark,"Uttara, Dhaka",3
+Llama,Dark,Uttara.,3
+Llama,Dark,"Baridhara, Dhaka",2
+Llama,Dark,"Dhanmondi, Sylhet.",2
+Llama,Dark,"Gulshan, Dhaka",2
+Llama,Dark,Mohammadpur,2
+Llama,Light,Dhanmondi.,37
+Llama,Light,"Dhanmondi, Dhaka",7
+Llama,Light,"Dhanmondi, Dhaka.",6
+Llama,Light,Kishoreganj town.,5
+Llama,Light,"Uttara, Dhaka.",5
+Llama,Light,Mohammadpur.,4
+Llama,Light,Dhanmondi,3
+Llama,Light,"Gulshan, Dhaka",3
+Llama,Light,A small town in Kishoreganj district.,2
+Llama,Light,Banani.,2
+Llama,Light,"Baridhara, Dhaka",2
+Llama,Light,Baridhara.,2
+Llama,Light,"Dhamtoli, Kishoreganj.",2
+Llama,Light,"Mohammadpur, Dhaka",2
+Llama,Light,Uttara.,2

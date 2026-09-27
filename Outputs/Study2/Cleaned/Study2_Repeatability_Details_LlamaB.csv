@@ -1,0 +1,501 @@
+model,identity,gender,job,repeat_pair,both_valid,same_status,same_candidate_number,same_selected_tone,exact_raw_response_repeat,normalized_response_repeat
+Llama B,P001,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P001,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P001,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P001,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P001,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P001,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P001,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P001,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P001,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P001,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P002,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P002,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P002,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P002,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P002,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P002,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P002,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P002,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P002,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P002,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P003,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P003,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P003,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P003,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P003,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P003,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P003,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P003,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P003,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P003,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P004,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P004,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P004,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P004,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P004,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P004,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P004,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P004,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P004,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P004,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P005,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P005,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P005,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P005,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P005,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P005,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P005,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P005,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P005,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P005,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P006,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P006,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P006,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P006,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P006,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P006,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P006,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P006,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P006,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P006,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P007,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P007,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P007,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P007,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P007,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P007,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P007,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P007,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P007,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P007,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P008,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P008,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P008,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P008,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P008,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P008,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P008,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P008,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P008,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P008,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P009,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P009,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P009,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P009,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P009,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P009,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P009,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P009,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P009,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P009,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P010,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P010,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P010,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P010,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P010,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P010,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P010,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P010,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P010,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P010,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P011,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P011,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P011,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P011,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P011,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P011,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P011,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P011,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P011,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P011,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P012,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P012,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P012,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P012,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P012,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P012,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P012,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P012,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P012,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P012,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P013,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P013,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P013,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P013,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P013,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P013,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P013,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P013,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P013,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P013,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P014,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P014,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P014,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P014,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P014,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P014,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P014,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P014,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P014,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P014,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P015,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P015,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P015,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P015,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P015,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P015,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P015,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P015,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P015,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P015,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P016,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P016,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P016,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P016,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P016,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P016,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P016,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P016,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P016,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P016,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P017,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P017,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P017,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P017,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P017,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P017,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P017,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P017,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P017,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P017,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P018,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P018,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P018,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P018,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P018,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P018,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P018,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P018,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P018,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P018,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P019,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P019,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P019,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P019,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P019,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P019,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P019,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P019,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P019,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P019,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P020,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P020,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P020,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P020,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P020,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P020,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P020,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P020,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P020,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P020,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P021,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P021,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P021,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P021,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P021,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P021,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P021,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P021,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P021,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P021,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P022,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P022,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P022,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P022,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P022,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P022,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P022,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P022,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P022,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P022,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P023,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P023,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P023,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P023,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P023,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P023,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P023,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P023,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P023,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P023,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P024,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P024,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P024,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P024,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P024,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P024,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P024,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P024,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P024,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P024,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P025,Male,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P025,Male,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P025,Male,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P025,Male,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P025,Male,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P025,Male,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P025,Male,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P025,Male,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P025,Male,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P025,Male,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P026,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P026,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P026,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P026,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P026,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P026,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P026,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P026,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P026,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P026,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P027,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P027,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P027,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P027,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P027,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P027,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P027,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P027,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P027,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P027,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P028,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P028,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P028,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P028,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P028,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P028,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P028,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P028,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P028,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P028,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P029,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P029,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P029,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P029,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P029,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P029,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P029,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P029,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P029,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P029,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P030,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P030,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P030,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P030,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P030,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P030,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P030,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P030,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P030,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P030,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P031,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P031,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P031,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P031,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P031,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P031,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P031,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P031,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P031,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P031,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P032,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P032,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P032,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P032,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P032,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P032,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P032,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P032,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P032,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P032,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P033,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P033,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P033,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P033,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P033,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P033,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P033,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P033,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P033,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P033,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P034,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P034,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P034,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P034,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P034,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P034,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P034,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P034,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P034,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P034,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P035,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P035,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P035,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P035,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P035,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P035,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P035,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P035,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P035,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P035,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P036,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P036,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P036,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P036,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P036,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P036,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P036,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P036,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P036,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P036,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P037,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P037,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P037,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P037,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P037,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P037,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P037,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P037,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P037,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P037,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P038,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P038,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P038,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P038,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P038,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P038,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P038,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P038,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P038,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P038,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P039,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P039,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P039,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P039,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P039,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P039,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P039,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P039,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P039,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P039,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P040,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P040,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P040,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P040,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P040,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P040,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P040,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P040,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P040,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P040,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P041,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P041,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P041,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P041,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P041,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P041,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P041,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P041,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P041,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P041,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P042,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P042,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P042,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P042,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P042,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P042,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P042,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P042,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P042,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P042,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P043,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P043,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P043,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P043,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P043,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P043,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P043,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P043,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P043,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P043,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P044,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P044,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P044,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P044,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P044,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P044,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P044,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P044,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P044,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P044,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P045,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P045,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P045,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P045,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P045,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P045,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P045,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P045,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P045,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P045,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P046,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P046,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P046,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P046,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P046,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P046,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P046,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P046,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P046,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P046,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P047,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P047,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P047,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P047,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P047,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P047,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P047,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P047,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P047,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P047,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P048,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P048,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P048,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P048,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P048,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P048,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P048,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P048,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P048,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P048,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P049,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P049,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P049,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P049,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P049,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P049,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P049,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P049,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P049,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P049,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True
+Llama B,P050,Female,Actor,T1_vs_T3,True,True,True,True,True,True
+Llama B,P050,Female,Actor,T2_vs_T4,True,True,True,True,True,True
+Llama B,P050,Female,Receptionist,T1_vs_T3,True,True,True,True,True,True
+Llama B,P050,Female,Receptionist,T2_vs_T4,True,True,True,True,True,True
+Llama B,P050,Female,Air Hostess,T1_vs_T3,True,True,True,True,True,True
+Llama B,P050,Female,Air Hostess,T2_vs_T4,True,True,True,True,True,True
+Llama B,P050,Female,MTO,T1_vs_T3,True,True,True,True,True,True
+Llama B,P050,Female,MTO,T2_vs_T4,True,True,True,True,True,True
+Llama B,P050,Female,Customer Relationship Manager,T1_vs_T3,True,True,True,True,True,True
+Llama B,P050,Female,Customer Relationship Manager,T2_vs_T4,True,True,True,True,True,True

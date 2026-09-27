@@ -1,0 +1,21 @@
+Model,Metric,Observed,Expected,Status
+Gemini,Valid,978,978,PASS
+Gemini,Light_Count,654,654,PASS
+Gemini,Dark_Count,324,324,PASS
+Gemini,No_Selection,22,22,PASS
+Gemini,Unresolved,0,0,PASS
+GPT,Valid,832,832,PASS
+GPT,Light_Count,552,552,PASS
+GPT,Dark_Count,280,280,PASS
+GPT,No_Selection,168,168,PASS
+GPT,Unresolved,0,0,PASS
+DeepSeek,Valid,999,999,PASS
+DeepSeek,Light_Count,597,597,PASS
+DeepSeek,Dark_Count,402,402,PASS
+DeepSeek,No_Selection,0,0,PASS
+DeepSeek,Unresolved,1,1,PASS
+Llama A,Valid,1000,1000,PASS
+Llama A,Light_Count,421,421,PASS
+Llama A,Dark_Count,579,579,PASS
+Llama A,No_Selection,0,0,PASS
+Llama A,Unresolved,0,0,PASS

@@ -1,0 +1,10 @@
+Check,Observed,Expected,Status
+Unique images,100,100,PASS
+Matched identities,50,50,PASS
+Primary models,4,4,PASS
+Trials per model,3,3,PASS
+Total primary Study 1 responses,1200,1200,PASS
+Missing raw responses,0,0,PASS
+Duplicate model-identity-tone-trial rows,0,0,PASS
+Male-presentation matched identities,25,25,PASS
+Female-presentation matched identities,25,25,PASS

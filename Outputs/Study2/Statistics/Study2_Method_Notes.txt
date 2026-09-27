@@ -1,0 +1,132 @@
+FYDP STUDY 2 ANALYSIS NOTES
+===========================
+
+Source files
+------------
+Main workbook: /content/drive/MyDrive/FYDP/Main_Data/Image CV.xlsx
+Llama Experiment A: /content/drive/MyDrive/FYDP/Llama_Study2/study2_experiment_A_original_method.xlsx
+Llama Experiment B: /content/drive/MyDrive/FYDP/Llama_Study2/FYDP_Study2_Ex_B_Same_SEED.xlsx
+
+Main four-model comparison
+--------------------------
+Models: Gemini, GPT, DeepSeek, Llama Experiment A
+50 matched identities
+25 male-presentation identities + 25 female-presentation identities
+5 jobs
+4 trials per identity/job/model
+1,000 decisions per model
+4,000 primary decisions total
+
+Candidate order
+---------------
+Trials 1 and 3: Candidate 1 = light image, Candidate 2 = dark image
+Trials 2 and 4: Candidate 1 = dark image, Candidate 2 = light image
+Candidate 1 always means the first image shown.
+
+Outcome parsing
+---------------
+Gemini/GPT/DeepSeek are parsed from the Study 2 workbook labels.
+Valid Light/Dark or Candidate 1/2 selections are converted to selected tone and candidate position.
+Explicit refusal/tie/neither responses are coded as no_selection.
+Rows that cannot be resolved conservatively remain unresolved and are exported for audit.
+Llama A/B use the dedicated Decision Details sheets.
+
+Primary descriptive reporting
+-----------------------------
+Raw Light/Dark selection counts and percentages among valid choices
+Candidate 1/2 position-selection rates among valid choices
+No-selection/unresolved rates among all responses
+Breakdowns by job, gender presentation, candidate order, and trial
+
+Repeated-observation handling
+-----------------------------
+The same 50 identities recur across five jobs and four trials, so raw response rows are not treated as independent people.
+Identity-level tone and position shares are used for clustered bootstrap CIs and one-sample Wilcoxon summaries.
+GEE models group repeated observations by identity.
+
+Order-swap analysis
+-------------------
+Trial 1 is paired with Trial 2, and Trial 3 with Trial 4.
+When both swapped trials contain valid choices, each comparison is classified as:
+- Tone-consistent Light
+- Tone-consistent Dark
+- Position-consistent Candidate 1
+- Position-consistent Candidate 2
+This directly shows whether the model follows the same skin-tone image or the same candidate position after order is reversed.
+
+Repeatability
+-------------
+Trial 1 is compared with Trial 3 (same order), and Trial 2 with Trial 4 (same order).
+The analysis reports repeated selections and exact response repetition.
+
+GEE robustness
+--------------
+Among valid choices, Candidate-1 selection is modeled as a function of whether Candidate 1 is the light image,
+with adjustment for job, gender presentation, and swap block, clustering by identity.
+A Candidate1-Light × Female-Presentation interaction is also estimated.
+For Llama Experiment A, seed and image order change together across trials. Therefore its GEE coefficient is descriptive
+and must not be interpreted as a clean causal skin-tone effect.
+
+Llama Experiment A vs B
+-----------------------
+Experiment A uses seeds 2001, 2002, 2003, 2004 across Trials 1–4.
+Experiment B uses seed 2001 for all four trials.
+Experiment B is a controlled same-seed follow-up and is reported separately from the main four-model comparison.
+A 50/50 aggregate tone split is not automatically evidence of neutrality; under balanced order it can arise mechanically
+if a model always selects Candidate 1.
+
+Explanation language
+--------------------
+The code performs a transparent rule-based screen for explicit "skin" or "complexion" wording and several other reason themes.
+It distinguishes a caution/rejection context from wording used within a selection rationale.
+All explicit skin-language rows are exported to Study2_Skin_Language_Audit.csv for manual verification before paper writing.
+Absence of explicit skin wording does not establish absence of bias.
+Claims in model explanations about lighting, professionalism, maturity, confidence, or image quality are model-generated rationales;
+they are not independently verified facts about the images or candidates.
+
+Gender interpretation
+---------------------
+Gender analyses compare the skin-tone selection pattern within male-presentation and female-presentation identity groups.
+They are not direct male-versus-female hiring comparisons.
+
+
+
+FINAL PATCH — VALIDATED LANGUAGE CODING AND ROBUSTNESS
+======================================================
+
+1. The initial Study 2 full analysis cell included a transparent rule-based
+   screen for explicit skin/complexion language. That rule-based screen is NOT
+   the final context annotation used for paper reporting.
+
+2. The final patch replaces the language-context summary with the research
+   team's previously manually revised final context coding:
+   - Gemini: 50 selection-rationale cases, 9 caution/rejection cases.
+   - GPT: 0 selection-rationale cases, 97 caution/rejection cases.
+   - DeepSeek: 300 selection-rationale cases, 0 caution/rejection cases,
+     1 ambiguous/unresolved skin-language-context case.
+   - Llama A: 0 explicit skin-language cases.
+
+3. Absence of explicit skin/complexion wording does not establish absence of
+   bias. Language coding is a secondary explanation analysis, separate from
+   the decision-based tone analyses.
+
+4. A secondary GEE model now evaluates no-selection/refusal behavior where
+   there is sufficient outcome variation. This is particularly relevant for
+   GPT because valid-choice tone percentages exclude GPT's non-selections.
+
+5. Adjusted Candidate-1-light tone effects are now estimated separately within
+   male-presentation and female-presentation identity groups for Gemini, GPT,
+   and DeepSeek. Llama Experiment A remains excluded from clean tone-effect
+   estimation because seed and image order change together.
+
+These patch outputs supersede the earlier rule-based Language Context sheet.
+
+
+GEE FIX NOTE
+============
+The first Study 2 patch stored swap_block as pandas nullable Int64. statsmodels/patsy cannot interpret Int64Dtype inside C(...), causing TypeError in the new gender-specific tone and non-selection GEE models. The final GEE fix converts swap_block/trial to native int64 before model fitting. No Study 2 decision records or manual language annotations were changed.
+
+
+FINAL NON-SELECTION NOTE
+========================
+Gemini had 22/1000 non-selection outcomes, but the adjusted GEE returned non-finite coefficients/intervals. These estimates are therefore not reported as inferential results. Gemini non-selection remains descriptively reported as 2.2%. GPT had 168/1000 non-selections and yielded finite adjusted GEE estimates. DeepSeek and Llama A had zero non-selections, so adjusted non-selection models were not estimable.

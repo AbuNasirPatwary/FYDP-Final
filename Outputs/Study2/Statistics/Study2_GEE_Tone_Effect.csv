@@ -1,0 +1,5 @@
+Model,Coefficient_LogOdds_C1Light,Odds_Ratio,OR_95CI_Low,OR_95CI_High,P_Value,N_Valid_Decisions,Status,Interpretation_Note
+Gemini,1.5440567646254157,4.6835518511205345,3.1140189600495742,7.044163257691077,1.2180875550974805e-13,978,OK,"Repeated-measures estimate of whether Candidate 1 is selected more often when Candidate 1 is light vs dark, adjusting for job, gender presentation and repeat block."
+GPT,2.148238696316544,8.56975116258043,5.149189060388207,14.262563313806888,1.3904348567886367e-16,832,OK,"Repeated-measures estimate of whether Candidate 1 is selected more often when Candidate 1 is light vs dark, adjusting for job, gender presentation and repeat block."
+DeepSeek,1.042445817838708,2.83614523292139,1.6222422071983633,4.958396315007948,0.00025478847576849506,999,OK,"Repeated-measures estimate of whether Candidate 1 is selected more often when Candidate 1 is light vs dark, adjusting for job, gender presentation and repeat block."
+Llama A,,,,,,1000,Not estimated: seed/order confounded,Not estimated as a clean tone-effect model because Llama Experiment A changes seed and image order together across trials.

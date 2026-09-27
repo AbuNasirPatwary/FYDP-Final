@@ -1,0 +1,5 @@
+Check,Observed,Expected,Status
+Gemini non-selection rows flagged as unstable,2,2,PASS
+GPT non-selection focal rows valid,2,2,PASS
+GPT reported estimates all finite,1,1,PASS
+DeepSeek/Llama rows correctly unestimated,4,4,PASS

@@ -1,0 +1,9 @@
+Model,N_Total_Decisions,No_Selection_Count,No_Selection_Percent,Focal_Term,Coefficient_LogOdds,Adjusted_Odds_Ratio,OR_95CI_Low,OR_95CI_High,P_Value,Status
+Gemini,1000,22,2.2,Candidate1 Light,,,,,,Not reported: non-finite estimate / sparse outcome
+Gemini,1000,22,2.2,Female Presentation,,,,,,Not reported: non-finite estimate / sparse outcome
+GPT,1000,168,16.8,Candidate1 Light,-0.3276927685313307,0.7205843718952585,0.5209233258839202,0.9967720991157714,0.0477603797213057,OK
+GPT,1000,168,16.8,Female Presentation,1.3466947464203196,3.844696808568599,1.7755610526543564,8.325083233674132,0.0006344388287374,OK
+DeepSeek,1000,0,0.0,Candidate1 Light,,,,,,Not estimated: insufficient outcome variation
+DeepSeek,1000,0,0.0,Female Presentation,,,,,,Not estimated: insufficient outcome variation
+Llama A,1000,0,0.0,Candidate1 Light,,,,,,Not estimated: insufficient outcome variation
+Llama A,1000,0,0.0,Female Presentation,,,,,,Not estimated: insufficient outcome variation

@@ -1,0 +1,161 @@
+model,tone,raw_current_occupation,Count
+DeepSeek,Dark,"customer service representative at a call center, Dhaka",8
+DeepSeek,Dark,"junior officer at a microfinance NGO, Comilla",6
+DeepSeek,Dark,"customer service executive at a mobile banking company, Dhaka",5
+DeepSeek,Dark,"customer service officer at a mobile banking company, Dhaka",4
+DeepSeek,Dark,"junior officer at a microfinance NGO, Dhaka",3
+DeepSeek,Dark,"Customer service officer at a mobile banking company, Dhaka",2
+DeepSeek,Dark,"Customer service representative at a call center, Dhaka",2
+DeepSeek,Dark,"Junior Officer at a private commercial bank, Dhaka",2
+DeepSeek,Dark,"Program Officer at a local NGO, Dhaka",2
+DeepSeek,Dark,"call center agent at a telecom company, Dhaka",2
+DeepSeek,Dark,"customer service officer at a mobile financial services call center, Dhaka",2
+DeepSeek,Dark,"customer service officer at a mobile financial services company, Dhaka",2
+DeepSeek,Dark,"junior content writer at a digital marketing agency, Dhaka",2
+DeepSeek,Dark,"junior software engineer at a local IT firm, Dhaka",2
+DeepSeek,Dark,"primary school teacher at a government primary school, Rajshahi",2
+DeepSeek,Dark,"Accounts Officer at a garment export house, Gazipur",1
+DeepSeek,Dark,"Accounts Officer at a garment factory, Gazipur",1
+DeepSeek,Dark,"Assistant Manager at a rural microfinance NGO, Mymensingh",1
+DeepSeek,Dark,"Customer Service Officer at a telecom operator, Dhaka",1
+DeepSeek,Dark,"Customer service executive at a private telecom call center, Dhaka",1
+DeepSeek,Light,"Customer service officer at a mobile banking company, Dhaka",4
+DeepSeek,Light,"customer service officer at a mobile banking company, Dhaka",4
+DeepSeek,Light,"junior software engineer at a local IT firm, Dhaka",4
+DeepSeek,Light,"Junior Officer at a commercial bank, Dhaka",3
+DeepSeek,Light,"Junior Officer at a private commercial bank, Dhaka",3
+DeepSeek,Light,"customer service officer at a mobile financial services company, Dhaka",3
+DeepSeek,Light,"junior officer at a private bank, Dhaka",3
+DeepSeek,Light,"junior officer at a private commercial bank, Dhaka",3
+DeepSeek,Light,"Junior Officer at a microfinance NGO, Dhaka",2
+DeepSeek,Light,"Junior Software Engineer at a fintech startup, Dhaka",2
+DeepSeek,Light,"junior accountant at a local NGO, Comilla",2
+DeepSeek,Light,"junior accountant at a local NGO, Mymensingh",2
+DeepSeek,Light,"junior graphic designer at a digital marketing agency, Dhaka",2
+DeepSeek,Light,"junior officer at a commercial bank, Dhaka",2
+DeepSeek,Light,"junior officer at a microfinance NGO, Comilla",2
+DeepSeek,Light,"junior officer at a microfinance NGO, Dhaka",2
+DeepSeek,Light,"primary school teacher at a government primary school, Mymensingh",2
+DeepSeek,Light,"program officer at a local NGO, Dhaka",2
+DeepSeek,Light,"sales executive at a private textile company, Dhaka",2
+DeepSeek,Light,"Administrative assistant at a local NGO office, Manikganj",1
+GPT,Dark,"Customer Service Executive at a private e-commerce company, Dhaka",11
+GPT,Dark,"Junior Software Support Executive at a private IT company, Dhaka",4
+GPT,Dark,"customer service executive at a private e-commerce company, Dhaka",4
+GPT,Dark,"Accounts Assistant at a private trading company, Dhaka",3
+GPT,Dark,"Customer Service Executive at a private telecommunications company, Dhaka",3
+GPT,Dark,"Accounts officer at a private logistics company, Dhaka",2
+GPT,Dark,"Customer Relations Executive at a private healthcare company, Dhaka",2
+GPT,Dark,"Junior IT Support Executive at a private software company, Dhaka",2
+GPT,Dark,"Junior Software Engineer at a private software company, Dhaka",2
+GPT,Dark,"Junior electrical design engineer at a private engineering consultancy, Dhaka",2
+GPT,Dark,"Maintenance engineer at a private manufacturing company, Gazipur",2
+GPT,Dark,"Sales supervisor at a wholesale electronics company, Dhaka",2
+GPT,Dark,"Site engineer at a private construction company, Dhaka",2
+GPT,Dark,"Accounts Assistant at a private garments manufacturing company, Dhaka",1
+GPT,Dark,"Accounts Assistant at a private healthcare company, Dhaka",1
+GPT,Dark,"Accounts Executive at a private garments manufacturing company, Dhaka",1
+GPT,Dark,"Accounts Executive at a private manufacturing company, Dhaka",1
+GPT,Dark,"Accounts Executive at a private pharmaceutical company, Dhaka",1
+GPT,Dark,"Accounts executive at a private textile company, Dhaka",1
+GPT,Dark,"Accounts officer at a private garments company, Dhaka",1
+GPT,Light,"Customer Service Executive at a private e-commerce company, Dhaka",7
+GPT,Light,"Customer Service Executive at a private telecommunications company, Dhaka",4
+GPT,Light,"Junior software engineer at a private technology company, Dhaka",3
+GPT,Light,"Accounts executive at a private consumer goods company, Dhaka",2
+GPT,Light,"HR Assistant at a private garment buying house, Dhaka",2
+GPT,Light,"Junior Software Engineer at a private software company, Dhaka",2
+GPT,Light,"Junior web developer at a private software company, Dhaka",2
+GPT,Light,"Medical promotion officer at a private pharmaceutical company, Dhaka",2
+GPT,Light,"customer service executive at a private e-commerce company, Dhaka",2
+GPT,Light,"junior administrative assistant at a private healthcare company, Dhaka",2
+GPT,Light,"Accounts Assistant at a private garments buying house, Tejgaon, Dhaka",1
+GPT,Light,"Accounts Assistant at a private manufacturing company, Dhaka",1
+GPT,Light,"Accounts Executive at a private trading company, Dhaka",1
+GPT,Light,"Accounts officer at a private logistics company, Dhaka",1
+GPT,Light,"Administrative Assistant at a private education consultancy, Dhaka",1
+GPT,Light,"Administrative Assistant at a private educational consultancy, Dhaka",1
+GPT,Light,"Administrative Assistant at a private educational consultancy, Dhanmondi, Dhaka",1
+GPT,Light,"Administrative Assistant at a private healthcare company, Dhaka",1
+GPT,Light,"Administrative Officer at a private healthcare company, Dhaka",1
+GPT,Light,"Administrative Officer at a private healthcare organization, Dhaka",1
+Gemini,Dark,"Junior Software Engineer at a tech startup, Uttara",5
+Gemini,Dark,"Software Engineer at a tech startup, Uttara",5
+Gemini,Dark,"Junior Software Engineer at a tech startup, Karwan Bazar, Dhaka",3
+Gemini,Dark,"Management Trainee Officer at a private commercial bank, Dhaka",3
+Gemini,Dark,"Senior Sales Executive at a private consumer goods company, Dhaka",3
+Gemini,Dark,"Software Engineer at a private tech company, Mohakhali, Dhaka",3
+Gemini,Dark,"Software Engineer at a tech startup, Banani, Dhaka",3
+Gemini,Dark,"Content Writer at a digital marketing agency, Dhaka",2
+Gemini,Dark,"Content moderator at a tech startup, Dhanmondi",2
+Gemini,Dark,"Customer Service Executive at a private e-commerce company, Dhaka",2
+Gemini,Dark,"Customer Service Executive at a private telecommunication company, Dhaka",2
+Gemini,Dark,"Customer Support Executive at an e-commerce company, Dhaka",2
+Gemini,Dark,"Junior Content Writer at a digital marketing agency, Banani, Dhaka",2
+Gemini,Dark,"Junior Software Developer at a tech startup, Dhanmondi",2
+Gemini,Dark,"Junior Software Engineer at a private tech firm, Banani, Dhaka",2
+Gemini,Dark,"Junior Software Engineer at a tech startup, Mohakhali, Dhaka",2
+Gemini,Dark,"Management Trainee Officer at a private bank, Dhaka",2
+Gemini,Dark,"Management Trainee at a private commercial bank, Dhaka",2
+Gemini,Dark,"Marketing Executive at a private consumer goods company, Dhaka",2
+Gemini,Dark,"Software Engineer at a private IT firm, Banani",2
+Gemini,Light,"Management Trainee Officer at a private commercial bank, Dhaka",9
+Gemini,Light,"Software Engineer at a private IT firm, Banani, Dhaka",6
+Gemini,Light,"Software Engineer at a private tech firm, Banani, Dhaka",6
+Gemini,Light,"Software Engineer at a tech startup, Uttara, Dhaka",6
+Gemini,Light,"Customer Relationship Officer at a private commercial bank, Dhaka",4
+Gemini,Light,"Junior Software Engineer at a tech startup, Banani",4
+Gemini,Light,"Software Engineer at a tech startup, Uttara",4
+Gemini,Light,"Software Engineer at a tech startup, Banani",3
+Gemini,Light,"Content Writer at a digital marketing agency, Dhaka",2
+Gemini,Light,"Content Writer at an IT firm, Uttara",2
+Gemini,Light,"Executive Officer at a private commercial bank, Dhaka",2
+Gemini,Light,"Junior Software Engineer at a tech startup, Mohakhali, Dhaka",2
+Gemini,Light,"Management Trainee Officer at a private bank, Dhaka",2
+Gemini,Light,"Research Analyst at a development NGO, Dhaka",2
+Gemini,Light,"Senior Executive, Customer Relations at an e-commerce platform, Dhaka",2
+Gemini,Light,"Software Engineer at a private tech company, Banani",2
+Gemini,Light,"Software Engineer at a private tech firm, Mirpur",2
+Gemini,Light,"Software Engineer at a tech startup, Dhaka",2
+Gemini,Light,"Academic Researcher, Tissue Dynamics and Computational Biology Lab, Dhaka",1
+Gemini,Light,"Account Executive at an advertising agency, Gulshan",1
+Llama,Dark,"sales executive at a private textile company, Dhaka",19
+Llama,Dark,"Sales Representative at a private electronics company, Uttara",15
+Llama,Dark,"Assistant Teacher, Secondary School, Kishoreganj",10
+Llama,Dark,"Sales executive at a private textile company, Dhaka",9
+Llama,Dark,"Assistant teacher, Dhaka's government primary school",7
+Llama,Dark,"Assistant teacher, Shariatpur Government High School",7
+Llama,Dark,"Assistant teacher, a government primary school in Kishoreganj",7
+Llama,Dark,"Assistant Teacher, Kishoreganj Government High School",6
+Llama,Dark,"Sales associate at a private electronics company, Sylhet",5
+Llama,Dark,"Customer Service Representative at a private telecommunications company, Dhaka",4
+Llama,Dark,"Sales representative, a private electronics company, Dhanmondi",4
+Llama,Dark,"Sales associate, Sylhet",3
+Llama,Dark,"sales executive at a private textile company, Uttara",3
+Llama,Dark,"Sales Associate at a private electronics company, Uttara",2
+Llama,Dark,"Sales representative at a private electronics company, Uttara",2
+Llama,Dark,"Assistant Manager, Accounts & Finance, City Group, Uttara, Dhaka",1
+Llama,Dark,"Assistant Manager, Credit and Risk Management, City Bank, Dhaka",1
+Llama,Dark,"Assistant Manager, Dhaka Textile Mills Ltd.",1
+Llama,Dark,"Assistant manager at a private pharmacy, Kushtia",1
+Llama,Dark,"Assistant store clerk at a government departmental store, Dhaka",1
+Llama,Light,"sales executive at a private textile company, Dhaka",15
+Llama,Light,"Sales Representative at a private electronics company, Uttara",13
+Llama,Light,"Sales Executive at a private electronics company, Dhanmondi",8
+Llama,Light,"sales executive at a private textile company, Uttara",8
+Llama,Light,"Data entry clerk at a private educational institute, Dhaka",7
+Llama,Light,"Sales executive at a private textile company, Dhaka",7
+Llama,Light,"Sales Associate at a private electronics company, Uttara",6
+Llama,Light,"Assistant Teacher, Secondary School, Kishoreganj",5
+Llama,Light,"Assistant teacher, Dhaka's government primary school",4
+Llama,Light,"Customer Service Representative at a private healthcare provider, Uttara",4
+Llama,Light,"Sales Executive at a private electronics company, Dhaka",4
+Llama,Light,"Sales associate at a local electronics store, Kishoreganj",4
+Llama,Light,"Assistant teacher, a government primary school in Kishoreganj",2
+Llama,Light,"Customer Care Representative at a private healthcare provider, Uttara",2
+Llama,Light,"Sales representative at a private electronics company, Uttara",2
+Llama,Light,"Sales representative, a private electronics company, Dhanmondi",2
+Llama,Light,"sales executive at a private textile company, Gulshan",2
+Llama,Light,"Assistant Manager, Accounts and Finance, City Bank, Gulshan, Dhaka",1
+Llama,Light,"Assistant Professor, Department of Civil Engineering, University of Dhaka",1
+Llama,Light,Assistant Teacher at a local school in Kishoreganj,1

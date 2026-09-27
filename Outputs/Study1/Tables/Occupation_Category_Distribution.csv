@@ -1,0 +1,59 @@
+model,tone,occupation_category,Count,Percent
+DeepSeek,Dark,Business/Management/Finance,24,16.0
+DeepSeek,Dark,Creative/Media,5,3.3333333333333335
+DeepSeek,Dark,Education/Research,7,4.666666666666667
+DeepSeek,Dark,Other/Unclear,33,22.0
+DeepSeek,Dark,Sales/Customer Service/Admin,75,50.0
+DeepSeek,Dark,Skilled/Manual/Transport,2,1.3333333333333335
+DeepSeek,Dark,Technology/Engineering,4,2.666666666666667
+DeepSeek,Light,Business/Management/Finance,41,27.333333333333332
+DeepSeek,Light,Creative/Media,5,3.3333333333333335
+DeepSeek,Light,Education/Research,4,2.666666666666667
+DeepSeek,Light,Other/Unclear,38,25.333333333333336
+DeepSeek,Light,Sales/Customer Service/Admin,48,32.0
+DeepSeek,Light,Technology/Engineering,14,9.333333333333334
+GPT,Dark,Business/Management/Finance,24,16.0
+GPT,Dark,Education/Research,2,1.3333333333333335
+GPT,Dark,Healthcare,2,1.3333333333333335
+GPT,Dark,Other/Unclear,30,20.0
+GPT,Dark,Sales/Customer Service/Admin,53,35.333333333333336
+GPT,Dark,Skilled/Manual/Transport,3,2.0
+GPT,Dark,Student/Intern/Entry-level,1,0.6666666666666667
+GPT,Dark,Technology/Engineering,35,23.333333333333332
+GPT,Light,Business/Management/Finance,34,22.666666666666664
+GPT,Light,Creative/Media,4,2.666666666666667
+GPT,Light,Education/Research,4,2.666666666666667
+GPT,Light,Healthcare,4,2.666666666666667
+GPT,Light,Other/Unclear,20,13.333333333333334
+GPT,Light,Sales/Customer Service/Admin,52,34.66666666666667
+GPT,Light,Student/Intern/Entry-level,3,2.0
+GPT,Light,Technology/Engineering,29,19.333333333333332
+Gemini,Dark,Business/Management/Finance,22,14.666666666666666
+Gemini,Dark,Creative/Media,5,3.3333333333333335
+Gemini,Dark,Education/Research,9,6.0
+Gemini,Dark,Other/Unclear,13,8.666666666666668
+Gemini,Dark,Sales/Customer Service/Admin,38,25.333333333333336
+Gemini,Dark,Student/Intern/Entry-level,12,8.0
+Gemini,Dark,Technology/Engineering,51,34.0
+Gemini,Light,Business/Management/Finance,30,20.0
+Gemini,Light,Creative/Media,10,6.666666666666667
+Gemini,Light,Education/Research,14,9.333333333333334
+Gemini,Light,Other/Unclear,4,2.666666666666667
+Gemini,Light,Sales/Customer Service/Admin,15,10.0
+Gemini,Light,Student/Intern/Entry-level,19,12.666666666666668
+Gemini,Light,Technology/Engineering,58,38.666666666666664
+Llama,Dark,Business/Management/Finance,3,2.0
+Llama,Dark,Education/Research,38,25.333333333333336
+Llama,Dark,Government/Public Service,1,0.6666666666666667
+Llama,Dark,Healthcare,1,0.6666666666666667
+Llama,Dark,Other/Unclear,34,22.666666666666664
+Llama,Dark,Sales/Customer Service/Admin,71,47.333333333333336
+Llama,Dark,Skilled/Manual/Transport,1,0.6666666666666667
+Llama,Dark,Technology/Engineering,1,0.6666666666666667
+Llama,Light,Business/Management/Finance,2,1.3333333333333335
+Llama,Light,Education/Research,13,8.666666666666668
+Llama,Light,Government/Public Service,2,1.3333333333333335
+Llama,Light,Other/Unclear,43,28.666666666666668
+Llama,Light,Sales/Customer Service/Admin,87,57.99999999999999
+Llama,Light,Skilled/Manual/Transport,1,0.6666666666666667
+Llama,Light,Technology/Engineering,2,1.3333333333333335

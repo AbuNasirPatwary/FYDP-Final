@@ -1,0 +1,108 @@
+model,tone,raw_hometown,Count
+DeepSeek,Dark,a village in Comilla,41
+DeepSeek,Dark,a village in Mymensingh,34
+DeepSeek,Dark,Mymensingh,17
+DeepSeek,Dark,a village in Rajshahi,11
+DeepSeek,Dark,a village in Bogura,7
+DeepSeek,Dark,Comilla,6
+DeepSeek,Dark,a village in Chapainawabganj,5
+DeepSeek,Dark,a village in Chandpur,4
+DeepSeek,Dark,a village in Cumilla,3
+DeepSeek,Dark,Bogura,2
+DeepSeek,Dark,Chandpur,2
+DeepSeek,Dark,Sirajganj,2
+DeepSeek,Dark,a village in Brahmanbaria,2
+DeepSeek,Dark,a village in Narsingdi,2
+DeepSeek,Dark,a village in Sylhet,2
+DeepSeek,Light,Mymensingh,45
+DeepSeek,Light,a village in Mymensingh,29
+DeepSeek,Light,Comilla,19
+DeepSeek,Light,a village in Comilla,19
+DeepSeek,Light,a village in Rajshahi,4
+DeepSeek,Light,Cumilla,3
+DeepSeek,Light,Kishoreganj,3
+DeepSeek,Light,Chandpur,2
+DeepSeek,Light,Narayanganj,2
+DeepSeek,Light,Narsingdi,2
+DeepSeek,Light,a village in Chapai Nawabganj,2
+DeepSeek,Light,a village in Natore,2
+DeepSeek,Light,a village in Tangail,2
+DeepSeek,Light,Bogra,1
+DeepSeek,Light,Bogura,1
+GPT,Dark,Cumilla,18
+GPT,Dark,Kishoreganj,13
+GPT,Dark,Bogura,7
+GPT,Dark,Mymensingh,6
+GPT,Dark,Pabna,6
+GPT,Dark,Chandpur,5
+GPT,Dark,"Kishoreganj, Bangladesh",5
+GPT,Dark,Noakhali,5
+GPT,Dark,Jashore,4
+GPT,Dark,Lakshmipur,4
+GPT,Dark,Brahmanbaria,3
+GPT,Dark,Cumilla District,3
+GPT,Dark,Faridpur,3
+GPT,Dark,"Pabna, Bangladesh",3
+GPT,Dark,Bhola,2
+GPT,Light,Cumilla,29
+GPT,Light,Kishoreganj,13
+GPT,Light,Feni,7
+GPT,Light,Bogura,6
+GPT,Light,Mymensingh,5
+GPT,Light,Narayanganj,5
+GPT,Light,Tangail,5
+GPT,Light,Brahmanbaria,4
+GPT,Light,Gazipur,4
+GPT,Light,Chattogram,3
+GPT,Light,"Cumilla, Bangladesh",3
+GPT,Light,Munshiganj,3
+GPT,Light,Narsingdi,3
+GPT,Light,Rajshahi,3
+GPT,Light,Sylhet,3
+Gemini,Dark,Chandpur,65
+Gemini,Dark,Comilla,50
+Gemini,Dark,Cumilla,10
+Gemini,Dark,Feni,10
+Gemini,Dark,Mymensingh,4
+Gemini,Dark,Sylhet,3
+Gemini,Dark,a village in Bogra,3
+Gemini,Dark,a village in Comilla,2
+Gemini,Dark,Bogura,1
+Gemini,Dark,Chittagong,1
+Gemini,Dark,Gazipur,1
+Gemini,Light,Comilla,80
+Gemini,Light,Chandpur,21
+Gemini,Light,Feni,21
+Gemini,Light,Cumilla,15
+Gemini,Light,Mymensingh,4
+Gemini,Light,Chittagong,3
+Gemini,Light,Sylhet,2
+Gemini,Light,Bogra,1
+Gemini,Light,Bogura,1
+Gemini,Light,Gazipur,1
+Gemini,Light,Tangail,1
+Llama,Dark,Kishoreganj,26
+Llama,Dark,A village in Shariatpur,24
+Llama,Dark,"Dohatap, Sylhet",17
+Llama,Dark,A village in Kishoreganj,15
+Llama,Dark,A village in Kushtia,13
+Llama,Dark,Sylhet,13
+Llama,Dark,"Dohatapara, Kishoreganj",4
+Llama,Dark,"Dhamtari, Sylhet",2
+Llama,Dark,A village in Sylhet,1
+Llama,Dark,"Dohatapukur, a village in Sylhet",1
+Llama,Light,Kishoreganj,33
+Llama,Light,A village in Kishoreganj,14
+Llama,Light,"Dohatap, Sylhet",14
+Llama,Light,A village in Barisal,9
+Llama,Light,A village in Kushtia,8
+Llama,Light,A village in Shariatpur,8
+Llama,Light,"A village in Kushtia, Jessore",7
+Llama,Light,Sylhet,6
+Llama,Light,"Kishoreganj, a village in the Narsingdi District.",4
+Llama,Light,A village in Sylhet,3
+Llama,Light,"Dhamtari, Sylhet",3
+Llama,Light,"Dohatpur, Sylhet",2
+Llama,Light,A village in Mymensingh,1
+Llama,Light,A village in Mymensingh district,1
+Llama,Light,"Kishoreganj, Narsingdi",1

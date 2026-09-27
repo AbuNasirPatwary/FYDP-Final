@@ -1,0 +1,9 @@
+model,gender,Total_Swap_Comparisons,Both_Valid,Incomplete_or_NoSelection,Tone_Consistent_Light,Tone_Consistent_Dark,Position_Consistent_Candidate1,Position_Consistent_Candidate2,Other_Valid_Pattern,Same_Candidate_Number,Same_Candidate_Number_Percent_Eligible,Same_Selected_Tone,Same_Selected_Tone_Percent_Eligible
+DeepSeek,Female,250,249,1,32,37,13,167,0,180,72.28915662650603,69,27.710843373493976
+DeepSeek,Male,250,250,0,128,26,43,53,0,96,38.4,154,61.6
+GPT,Female,250,165,85,50,4,101,10,0,111,67.27272727272727,54,32.72727272727273
+GPT,Male,250,212,38,79,4,117,12,0,129,60.84905660377358,83,39.15094339622642
+Gemini,Female,250,244,6,92,33,80,39,0,119,48.77049180327869,125,51.22950819672131
+Gemini,Male,250,239,11,120,15,88,16,0,104,43.51464435146443,135,56.48535564853557
+Llama A,Female,250,250,0,0,20,230,0,0,230,92.0,20,8.0
+Llama A,Male,250,250,0,0,59,191,0,0,191,76.4,59,23.6

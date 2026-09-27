@@ -1,0 +1,5 @@
+﻿Model,Position-consistent,Image/tone-consistent,Invalid/non-selection comparison,Other valid pattern,Total Comparisons,Valid Comparisons,Position-consistent % Among Valid,Image/tone-consistent % Among Valid,Invalid comparison %
+Gemini,223,260,17,0,500,483,46.17,53.83,3.4
+ChatGPT,240,137,123,0,500,377,63.66,36.34,24.6
+DeepSeek,276,223,1,0,500,499,55.31,44.69,0.2
+Llama,421,79,0,0,500,500,84.2,15.8,0.0

@@ -1,0 +1,9 @@
+﻿Model,Gender,Total Responses,Valid Decisions,Light Count,Dark Count,Non-selection Count,Unresolved Count,Candidate 1 Count,Candidate 2 Count,Light % Among Valid,Dark % Among Valid,Candidate 1 % Among Valid,Candidate 2 % Among Valid,Non-selection % of All
+Gemini,Male,500,485,348,137,15,0,315,170,71.75,28.25,64.95,35.05,3.0
+Gemini,Female,500,493,306,187,7,0,287,206,62.07,37.93,58.22,41.78,1.4
+ChatGPT,Male,500,449,300,149,51,0,338,111,66.82,33.18,75.28,24.72,10.2
+ChatGPT,Female,500,383,252,131,117,0,300,83,65.8,34.2,78.33,21.67,23.4
+DeepSeek,Male,500,500,352,148,0,0,240,260,70.4,29.6,48.0,52.0,0.0
+DeepSeek,Female,500,499,245,254,0,1,95,404,49.1,50.9,19.04,80.96,0.0
+Llama,Male,500,500,191,309,0,0,441,59,38.2,61.8,88.2,11.8,0.0
+Llama,Female,500,500,230,270,0,0,480,20,46.0,54.0,96.0,4.0,0.0

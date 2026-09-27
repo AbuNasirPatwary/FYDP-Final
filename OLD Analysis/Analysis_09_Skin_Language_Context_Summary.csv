@@ -1,0 +1,5 @@
+﻿model,Skin language used within selection rationale,Caution/rejection of skin or appearance basis,Ambiguous/unresolved skin-language context,Total Explicit Skin-language Cases,Selection-rationale Skin Use % of All Responses,Caution/Rejection % of All Responses,Selection-rationale % Among Skin Cases
+Gemini,50,9,0,59,5.0,0.9,84.75
+ChatGPT,16,81,0,97,1.6,8.1,16.49
+DeepSeek,300,0,1,301,30.0,0.0,99.67
+Llama,0,0,0,0,0.0,0.0,0.0

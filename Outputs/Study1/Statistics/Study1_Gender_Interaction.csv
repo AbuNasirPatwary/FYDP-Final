@@ -1,0 +1,9 @@
+Model,Outcome,Interaction Term,Interaction Coefficient,95% CI Low,95% CI High,P Value,Interpretation Scale,Status
+Gemini,Monthly Income,Tone Light × Female Presentation,3593.33333333333,-376.6074638119153,7563.274130478575,0.0760577779571336,BDT difference-in-differences,OK
+Gemini,Bachelor-or-Higher,Tone Light × Female Presentation,,,,,log-odds interaction,Skipped: sparse outcome / quasi-complete separation
+GPT,Monthly Income,Tone Light × Female Presentation,-706.6666666666646,-4207.045040769193,2793.711707435864,0.6923386874851685,BDT difference-in-differences,OK
+GPT,Bachelor-or-Higher,Tone Light × Female Presentation,,,,,log-odds interaction,Skipped: sparse outcome / quasi-complete separation
+DeepSeek,Monthly Income,Tone Light × Female Presentation,-280.00000000000125,-3249.2326664319494,2689.2326664319467,0.8533659054001557,BDT difference-in-differences,OK
+DeepSeek,Bachelor-or-Higher,Tone Light × Female Presentation,,,,,log-odds interaction,Skipped: sparse outcome / quasi-complete separation
+Llama,Monthly Income,Tone Light × Female Presentation,3806.6666666666647,1986.6302318774246,5626.703101455905,4.143482727213783e-05,BDT difference-in-differences,OK
+Llama,Bachelor-or-Higher,Tone Light × Female Presentation,,,,,log-odds interaction,Skipped: sparse outcome / quasi-complete separation

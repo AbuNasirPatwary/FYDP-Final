@@ -1,0 +1,9 @@
+model,tone,N,Experience_Count,Rate,Experience_Percent
+DeepSeek,Dark,150,129.0,0.86,86.0
+DeepSeek,Light,150,141.0,0.94,94.0
+GPT,Dark,150,150.0,1.0,100.0
+GPT,Light,150,150.0,1.0,100.0
+Gemini,Dark,150,146.0,0.9733333333333334,97.33333333333334
+Gemini,Light,150,145.0,0.9666666666666667,96.66666666666667
+Llama,Dark,128,90.0,0.703125,70.3125
+Llama,Light,125,81.0,0.648,64.8

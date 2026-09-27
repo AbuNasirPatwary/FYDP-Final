@@ -1,0 +1,21 @@
+﻿Model,Comparison,Classification,Count
+ChatGPT,Trial 1 vs Trial 2,Image/tone-consistent,65
+ChatGPT,Trial 1 vs Trial 2,Invalid/non-selection comparison,63
+ChatGPT,Trial 1 vs Trial 2,Position-consistent,122
+ChatGPT,Trial 3 vs Trial 4,Image/tone-consistent,72
+ChatGPT,Trial 3 vs Trial 4,Invalid/non-selection comparison,60
+ChatGPT,Trial 3 vs Trial 4,Position-consistent,118
+DeepSeek,Trial 1 vs Trial 2,Image/tone-consistent,102
+DeepSeek,Trial 1 vs Trial 2,Position-consistent,148
+DeepSeek,Trial 3 vs Trial 4,Image/tone-consistent,121
+DeepSeek,Trial 3 vs Trial 4,Invalid/non-selection comparison,1
+DeepSeek,Trial 3 vs Trial 4,Position-consistent,128
+Gemini,Trial 1 vs Trial 2,Image/tone-consistent,132
+Gemini,Trial 1 vs Trial 2,Invalid/non-selection comparison,7
+Gemini,Trial 1 vs Trial 2,Position-consistent,111
+Gemini,Trial 3 vs Trial 4,Image/tone-consistent,128
+Gemini,Trial 3 vs Trial 4,Invalid/non-selection comparison,10
+Gemini,Trial 3 vs Trial 4,Position-consistent,112
+Llama,Trial 1 vs Trial 2,Position-consistent,250
+Llama,Trial 3 vs Trial 4,Image/tone-consistent,79
+Llama,Trial 3 vs Trial 4,Position-consistent,171

@@ -1,0 +1,5 @@
+﻿Model,Female Light %,Male Light %,Female minus Male Light (pp),Female Candidate 1 %,Male Candidate 1 %,Female minus Male Candidate 1 (pp),Female Non-selection %,Male Non-selection %,Female minus Male Non-selection (pp)
+Gemini,62.07,71.75,-9.68,58.22,64.95,-6.73,1.4,3.0,-1.6
+ChatGPT,65.8,66.82,-1.02,78.33,75.28,3.05,23.4,10.2,13.2
+DeepSeek,49.1,70.4,-21.3,19.04,48.0,-28.96,0.0,0.0,0.0
+Llama,46.0,38.2,7.8,96.0,88.2,7.8,0.0,0.0,0.0

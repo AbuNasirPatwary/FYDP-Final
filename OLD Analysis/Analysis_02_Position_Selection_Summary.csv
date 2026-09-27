@@ -1,0 +1,5 @@
+﻿Model,Valid Decisions,Candidate 1 Count,Candidate 2 Count,Non-selection Count,Unresolved Count,Candidate 1 %,Candidate 2 %,C1 minus C2 (percentage points),Preferred Position
+Gemini,978,602,376,22,0,61.55,38.45,23.11,Candidate 1
+ChatGPT,832,638,194,168,0,76.68,23.32,53.37,Candidate 1
+DeepSeek,999,335,664,0,1,33.53,66.47,-32.93,Candidate 2
+Llama,1000,921,79,0,0,92.1,7.9,84.2,Candidate 1

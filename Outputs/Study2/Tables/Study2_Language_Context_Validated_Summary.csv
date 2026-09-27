@@ -1,0 +1,5 @@
+Model,Selection_Rationale,Caution_Rejection,Ambiguous_Unresolved,Total_Explicit_Skin_Cases,Selection_Rationale_Percent_All,Caution_Rejection_Percent_All,Selection_Rationale_Percent_Among_Explicit,Expected_Rationale,Expected_Caution,Expected_Ambiguous,Expected_Explicit_Total,Status
+Gemini,50,9,0,59,5.0,0.8999999999999999,84.7457627118644,50,9,0,59,PASS
+GPT,0,97,0,97,0.0,9.700000000000001,0.0,0,97,0,97,PASS
+DeepSeek,300,0,1,301,30.0,0.0,99.66777408637874,300,0,1,301,PASS
+Llama A,0,0,0,0,0.0,0.0,0.0,0,0,0,0,PASS

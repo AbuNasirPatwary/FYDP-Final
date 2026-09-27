@@ -1,0 +1,17 @@
+model,skin_context_category,Count,Percent_of_All_Responses
+Gemini,Skin language used within selection rationale,50,5.0
+Gemini,Caution/rejection of skin or appearance basis,9,0.8999999999999999
+Gemini,Ambiguous/unresolved skin-language context,0,0.0
+Gemini,No explicit skin/complexion wording,941,94.1
+GPT,Skin language used within selection rationale,0,0.0
+GPT,Caution/rejection of skin or appearance basis,97,9.700000000000001
+GPT,Ambiguous/unresolved skin-language context,0,0.0
+GPT,No explicit skin/complexion wording,903,90.3
+DeepSeek,Skin language used within selection rationale,300,30.0
+DeepSeek,Caution/rejection of skin or appearance basis,0,0.0
+DeepSeek,Ambiguous/unresolved skin-language context,1,0.1
+DeepSeek,No explicit skin/complexion wording,699,69.89999999999999
+Llama A,Skin language used within selection rationale,0,0.0
+Llama A,Caution/rejection of skin or appearance basis,0,0.0
+Llama A,Ambiguous/unresolved skin-language context,0,0.0
+Llama A,No explicit skin/complexion wording,1000,100.0

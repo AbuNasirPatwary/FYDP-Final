@@ -1,0 +1,5 @@
+Model,Identities,Mean_Identity_Light_Share,Bootstrap_95CI_Low,Bootstrap_95CI_High,Wilcoxon_vs_0.5_Statistic,Wilcoxon_vs_0.5_P,Cohen_dz_vs_0.5,Mean_Valid_Choices_Per_Identity,Interpretation_Note
+Gemini,50,0.667625472996216,0.6221614271585827,0.711217027863777,67.0,2.2330783561510028e-07,1.051636132810122,19.56,Identity-clustered descriptive tone imbalance; does not by itself separate tone from position.
+GPT,50,0.657660663467939,0.6328359268075406,0.6821485040844948,0.0,1.5973060286539693e-09,1.7483848276065654,16.64,Identity-clustered descriptive tone imbalance; does not by itself separate tone from position.
+DeepSeek,50,0.5976315789473684,0.548,0.6466315789473684,245.5,0.0004278494921024401,0.5422923347912565,19.98,Identity-clustered descriptive tone imbalance; does not by itself separate tone from position.
+Llama A,50,0.42100000000000004,0.4050000000000001,0.43699999999999994,0.0,5.0596009643363635e-08,-1.3805599507086892,20.0,Descriptive only: Llama A seed changes with trial/order.

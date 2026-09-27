@@ -1,0 +1,5 @@
+Check,Observed,Expected,Status
+Gender-specific tone GEE successful rows,6,6,PASS
+Llama A gender-specific tone rows intentionally excluded,2,2,PASS
+Gemini/GPT non-selection GEE successful focal rows,4,4,PASS
+DeepSeek/Llama non-selection rows with no outcome variation,4,4,PASS

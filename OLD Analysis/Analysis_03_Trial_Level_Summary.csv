@@ -1,0 +1,17 @@
+﻿Model,Trial,Candidate 1 Tone,Candidate 2 Tone,Total Responses,Valid Decisions,Light Count,Dark Count,Candidate 1 Count,Candidate 2 Count,Non-selection Count,Unresolved Count,Light % Among Valid,Dark % Among Valid,Candidate 1 % Among Valid,Candidate 2 % Among Valid,Non-selection % of All
+Gemini,1,Light,Dark,250,245,193,52,193,52,5,0,78.78,21.22,78.78,21.22,2.0
+Gemini,2,Dark,Light,250,247,131,116,116,131,3,0,53.04,46.96,46.96,53.04,1.2
+Gemini,3,Light,Dark,250,241,189,52,189,52,9,0,78.42,21.58,78.42,21.58,3.6
+Gemini,4,Dark,Light,250,245,141,104,104,141,5,0,57.55,42.45,42.45,57.55,2.0
+ChatGPT,1,Light,Dark,250,215,204,11,204,11,35,0,94.88,5.12,94.88,5.12,14.0
+ChatGPT,2,Dark,Light,250,203,73,130,130,73,47,0,35.96,64.04,64.04,35.96,18.8
+ChatGPT,3,Light,Dark,250,211,188,23,188,23,39,0,89.1,10.9,89.1,10.9,15.6
+ChatGPT,4,Dark,Light,250,203,87,116,116,87,47,0,42.86,57.14,57.14,42.86,18.8
+DeepSeek,1,Light,Dark,250,250,95,155,95,155,0,0,38.0,62.0,38.0,62.0,0.0
+DeepSeek,2,Dark,Light,250,250,185,65,65,185,0,0,74.0,26.0,26.0,74.0,0.0
+DeepSeek,3,Light,Dark,250,249,121,128,121,128,0,1,48.59,51.41,48.59,51.41,0.0
+DeepSeek,4,Dark,Light,250,250,196,54,54,196,0,0,78.4,21.6,21.6,78.4,0.0
+Llama,1,Light,Dark,250,250,250,0,250,0,0,0,100.0,0.0,100.0,0.0,0.0
+Llama,2,Dark,Light,250,250,0,250,250,0,0,0,0.0,100.0,100.0,0.0,0.0
+Llama,3,Light,Dark,250,250,171,79,171,79,0,0,68.4,31.6,68.4,31.6,0.0
+Llama,4,Dark,Light,250,250,0,250,250,0,0,0,0.0,100.0,100.0,0.0,0.0

@@ -1,0 +1,5 @@
+﻿Model,Highest Light-selection Job,Highest Light %,Lowest Light-selection Job,Lowest Light %,Light-rate Range (pp),Highest Non-selection Job,Highest Non-selection %
+Gemini,MTO,72.36,Actor,64.36,8.0,Actor,6.0
+ChatGPT,Actor,81.02,MTO,51.55,29.47,Actor,31.5
+DeepSeek,Receptionist,65.0,Actor,46.5,18.5,Actor,0.0
+Llama,Receptionist,49.5,Actor,31.5,18.0,Actor,0.0

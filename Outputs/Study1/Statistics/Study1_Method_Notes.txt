@@ -1,0 +1,79 @@
+
+FYDP STUDY 1 ANALYSIS NOTES
+===========================
+Source:
+/content/drive/MyDrive/FYDP/Main_Data/Image CV.xlsx
+
+Primary models:
+Gemini
+GPT
+DeepSeek
+Llama
+
+Study design:
+100 images
+50 matched identities
+2 skin-tone versions per identity
+3 trials per image/model
+4 primary models
+Total primary responses = 1,200
+
+Main inferential unit:
+The three trials are averaged within each identity and skin tone.
+Therefore the main paired comparisons use 50 matched identities,
+rather than treating 300 responses per model as independent people.
+
+Primary outcomes:
+1. Monthly Income
+2. Bachelor-or-Higher Education
+
+Primary statistics:
+Bootstrap 95% confidence intervals
+Paired Wilcoxon signed-rank test
+Paired Cohen's dz
+
+Repeated-measures robustness:
+GEE is used for income and Bachelor-or-Higher outcomes.
+Binary GEE estimates are automatically skipped when outcome cells are
+too sparse and complete/quasi-complete separation would make the
+coefficient unstable. This especially protects the near-ceiling Gemini
+Bachelor-or-Higher result from being misinterpreted.
+
+Gender-presentation analysis:
+Matched tone effects are reported separately for the Male- and
+Female-presentation identity groups.
+A secondary GEE skin-tone × gender-presentation interaction is also
+estimated to test whether the tone effect differs between those groups.
+This is not a direct male-vs-female hiring or social comparison.
+
+Secondary descriptive outcomes:
+Age
+Occupation category
+Previous work-experience presence
+Hometown
+Current residence
+Name generation
+
+Occupation:
+Occupation categories are exploratory keyword-based sector groupings.
+No occupation-prestige score is created.
+Top raw occupation strings are exported for auditability.
+
+Work experience:
+Only presence/absence is retained for reporting.
+Duration-in-years analysis is excluded because durations were not
+consistently recoverable across response formats.
+
+Residence:
+Current residence is NOT reduced to a simple Dhaka/non-Dhaka flag.
+Many valid Dhaka neighborhoods (e.g., Mirpur, Dhanmondi, Uttara,
+Banani) may be written without the word "Dhaka".
+Raw top-residence distributions are therefore retained instead.
+No neighborhood-prestige score is created.
+
+Education audit:
+The final source-derived count for Llama dark-skin Bachelor-or-Higher
+responses is 12/150. The matching response-level cases are exported to
+Llama_Dark_BachelorPlus_Audit.csv.
+
+Qwen is excluded from the defined four-model primary comparison.

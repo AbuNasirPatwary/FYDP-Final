@@ -1,0 +1,6 @@
+model,Total_Swap_Comparisons,Both_Valid,Incomplete_or_NoSelection,Tone_Consistent_Light,Tone_Consistent_Dark,Position_Consistent_Candidate1,Position_Consistent_Candidate2,Other_Valid_Pattern,Same_Candidate_Number,Same_Candidate_Number_Percent_Eligible,Same_Selected_Tone,Same_Selected_Tone_Percent_Eligible
+DeepSeek,500,499,1,160,63,56,220,0,276,55.31062124248497,223,44.68937875751503
+GPT,500,377,123,129,8,218,22,0,240,63.6604774535809,137,36.3395225464191
+Gemini,500,483,17,212,48,168,55,0,223,46.16977225672878,260,53.83022774327122
+Llama A,500,500,0,0,79,421,0,0,421,84.2,79,15.8
+Llama B,500,500,0,0,0,500,0,0,500,100.0,0,0.0
